@@ -11,7 +11,7 @@ Generate docs from pdf.
 Terminal
 
 ```
-> pdf2doc.exe
+> pdf2doc.py
 Dir: <Drag and drop the folder containing pdf files.>
 Processing...
 ...
