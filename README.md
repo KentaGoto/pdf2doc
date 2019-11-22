@@ -2,7 +2,7 @@
 
 Generate docs from pdf.
 
-**<font color="LightCoral">WARNINGS:</font>**
+**WARNINGS:**
 
 - Scanned PDFs cannot be generated accurately.
 
